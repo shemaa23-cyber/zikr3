@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "6b526d97872b7e1ec50cf746005121cb"
+    },
+    {
+        "path": "al-quran-online-academy-a-trusted-platform-for-digital-quran-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/al-quran-online-academy-a-trusted-platform-for-digital-quran-learning/index.html",
+        "type": "file",
+        "md5": "10bd39dd305e11ca5b76e603a4c86cfd"
+    },
+    {
+        "path": "al-quran-online-academy-your-pathway-to-authentic-quran-learning-at-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/al-quran-online-academy-your-pathway-to-authentic-quran-learning-at-home/index.html",
+        "type": "file",
+        "md5": "76fe7fc2037df5a379d433410009f823"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "52c9d977c0ecd2ce913cad5faa51c29b"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "801f652ff88b59f20a7c0ce6442e2355"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9e1cd4e014b9a07dba3101862c7491f7"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "b5f1a718a3cda67a9929eb507ab28852"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-17.jfif",
+        "type": "file",
+        "md5": "107f4c9baab045bc315fd713beb0b02d"
+    },
+    {
+        "path": "quran-online-academy-a-modern-way-to-learn-and-connect-with-the-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-online-academy-a-modern-way-to-learn-and-connect-with-the-quran/index.html",
+        "type": "file",
+        "md5": "46e0a4261d483c9532d379c28093f142"
+    },
+    {
+        "path": "quran-online-academy-transforming-quranic-education-for-the-digital-age",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-online-academy-transforming-quranic-education-for-the-digital-age/index.html",
+        "type": "file",
+        "md5": "6a28bd14b0692ac6390e2a3668baa25c"
+    },
+    {
+        "path": "quran-online-academy-your-gateway-to-authentic-quranic-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-online-academy-your-gateway-to-authentic-quranic-learning/index.html",
+        "type": "file",
+        "md5": "e8ce9806ed6a54f937fcf330c1030e33"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "45e6d1a9961082c1bceea32e69267f6b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "3cb7a59e97e4417077ab7d42c7548fe6"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "527255eb6eff3525d18303cfb669c92f"
+    }
+]
